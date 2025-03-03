@@ -1,9 +1,9 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import MegaMenu from '@/components/megaMenu.vue';
+
+
 </script>
 
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+  <MegaMenu/>
 </template>
